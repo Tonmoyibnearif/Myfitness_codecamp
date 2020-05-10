@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MyFit</string>
+    <!--<string name="sharing_text">Your sharing text goes here…</string>-->
+    <!--<string name="screenshot_take_failed">Failed to take screenshot!!</string>-->
+    <!--<string name="wait">Please wait…</string>-->
+    <!--<string name="full_page_screenshot">Full Page Screenshot</string>-->
+    <!--<string name="hidden_text">Hidden Text</string>-->
+    <!--<string name="custom_page_screenshot">Custom Page Screenshot</string>-->
+    <string name="weight">Weight</string>
+    <string name="title_activity_detail_tracked">DetailTrackedActivity</string>
+
+    <string name="start">Start</string>
+    <string name="duration">Duration</string>
+    <string name="end">End</string>
+    <string name="kcal">kcal</string>
+    <string name="kg">kg</string>
+    <string name="distance">Distance</string>
+    <string name="speed">Speed</string>
+    <string name="title_activity_tracking_view">TrackingViewActivity</string>
+
+    <string name="situps">Sit-ups</string>
+    <string name="pushups">Push-ups</string>
+    <string name="running">Running</string>
+    <string name="cycling">Cycling</string>
+
+    <string name="stepsHeadline">Steps</string>
+    <string name="currentSpeedHeadline">Current speed</string>
+    <string name="averageSpeedHeadline">Average speed</string>
+    <string name="distanceHeadline">Distance</string>
+    <string name="timeHeadline">Duration</string>
+    <string name="countHeadline">Count</string>
+
+    <string name="dialog_delete">Are you sure you want to delete this activity?</string>
+    <string name="delete">Delete</string>
+    <string name="keep">Keep</string>
+
+    <string name="share_subject">Exercise data from MyFit</string>
+    <string name="share_title">Share Exercise Data</string>
+    <string name="share_message">Hey there!\nI did some exercise on %1$s at %2$s o\'clock for %3$s hours. I also burnt %4$d calories! Look what I did: </string>
+    <string name="share_addition_running">\nI ran %1$s km and did %2$d steps with an average speed of %3$.2f km/h.\n</string>
+    <string name="share_addition_cycling">\nI cycled %1$.2f km with a max speed of %2$.2f km/h and an average speed of %3$.2f km/h.\n</string>
+    <string name="share_coordinates">These are the coordinates of my route:\n</string>
+    <string name="share_amount">I finished %1$d %2$s ups and burnt %3$d calories.</string>
+
+    <string name="detail_distance">%1$.2f km.</string>
+    <string name="detail_steps">%1$d steps</string>
+    <string name="detail_avg_speed">%.2f km/h</string>
+    <string name="detail_max_speed">max. speed: %.2f km/h</string>
+    <string name="detail_amount">Congratulations, you did %1$d %2$s ups.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
